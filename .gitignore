@@ -1,0 +1,9 @@
+.vscode
+__pycache__
+.ipynb_checkpoints
+csv_and_examples
+*.json
+*.ipynb
+*.pickle
+
+
