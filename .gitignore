@@ -5,5 +5,5 @@ csv_and_examples
 *.json
 *.ipynb
 *.pickle
-
+*.pdf
 
