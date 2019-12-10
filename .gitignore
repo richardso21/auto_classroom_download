@@ -1,9 +1,10 @@
 .vscode
 __pycache__
 .ipynb_checkpoints
+prototype
 csv_and_examples
 *.json
 *.ipynb
 *.pickle
-
-
+*.pdf
+Untitled-1.py
