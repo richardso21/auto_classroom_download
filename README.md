@@ -13,8 +13,7 @@ now, all you have to do is clone this repo, run __app.py__ (after going thru pre
 
 ---
 ## Prerequisites
-1. Run the following on terminal (or not whatever I'm not your dad)
-
+1. Run the following on terminal (or not)
 ```
 $ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
