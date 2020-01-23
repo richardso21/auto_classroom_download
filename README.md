@@ -4,7 +4,7 @@ _"auto" download classroom post attachments_
 
 ## have you ever wanted to automatically download the pdf of the day's lesson that one teacher put up on classroom because you're too lazy and can't afford to click a couple of buttons but if you express your discontent about this specific issue to that teacher then you'd be worried that he/she/it would be less prone to like you for the rest of the school year?
 
-oddly specific, but for me y̵̡̝̼̝͖̤̞̹̻̜͆̉͒͘͘͜è̷͍̫̝̞̱̠͖̤̄̑̏̓̎͑͂̇̽̏̍͘s̸̡̬̹̣̰̤͔̰͔͕̤̟͊̔̓̾̌̋͂̒̐͘͝ͅ.
+oddly specific, but for me __yes__.
 
 
 # BUT...
