@@ -23,7 +23,7 @@ $ pip install PyDrive
 
 3. Go onto https://developers.google.com/classroom/quickstart/python and follow *only* Step 1. You should get a download of a file `credentials.json`
 
-4. Put `credentials.json` next to `app.py`
+4. Rename `credentials.json` to `credentials_classroom.json` and make a copy named `client_secrets.json`. Put both next to `app.py`
 
 5. Run `app.py`. The first time, it'll ask you for a lot of google authentication and all of that jazz. __MAKE SURE THAT YOU SIGN IN WITH YOUR SCHOOL GOOGLE ACCOUNT__
 
