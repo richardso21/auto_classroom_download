@@ -27,8 +27,6 @@ $ pip install PyDrive
 
 5. Run `app.py`. The first time, it'll ask you for a lot of google authentication and all of that jazz. __MAKE SURE THAT YOU SIGN IN WITH YOUR SCHOOL GOOGLE ACCOUNT__
 
-6. (For now) Enter the `id` of the classroom (no, not class invite code). _This is the tricky part that probably should've gotten more documentation, but I'm in progress of making a selection ui that'll let you choose which class. For now, refer to google's classroom api documentation to figure this out._
-
-7. enjoy
+6. enjoy
 
 
