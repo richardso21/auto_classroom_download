@@ -16,16 +16,14 @@ now, all you have to do is clone this repo, run __app.py__ (after going thru pre
 1. Run the following on terminal (or not)
 ```
 $ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-
-$ pip install PyDrive
 ```
 2. Clone this repo
 
 3. Go onto https://developers.google.com/classroom/quickstart/python and follow *only* Step 1. You should get a download of a file `credentials.json`
 
-4. Rename `credentials.json` to `credentials_classroom.json` and make a copy named `client_secrets.json`. Put both next to `app.py`
+4. Put `credentials.json` next to `app.py`.
 
-5. Run `app.py`. The first time, it'll ask you for a lot of google authentication and all of that jazz. __MAKE SURE THAT YOU SIGN IN WITH YOUR SCHOOL GOOGLE ACCOUNT__
+5. Run `app.py`. The first time, it'll ask you for a lot of google authentication and all of that jazz. __Make sure you sign in with your google account.__
 
 6. enjoy
 
